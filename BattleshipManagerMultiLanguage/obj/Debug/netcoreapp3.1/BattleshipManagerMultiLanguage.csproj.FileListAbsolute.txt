@@ -1,0 +1,13 @@
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.exe
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.deps.json
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.runtimeconfig.json
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.runtimeconfig.dev.json
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.dll
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.pdb
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.csprojAssemblyReference.cache
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.AssemblyInfoInputs.cache
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.AssemblyInfo.cs
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.dll
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.pdb
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NGO\source\repos\BattleshipManagerMultiLanguage\BattleshipManagerMultiLanguage\obj\Debug\netcoreapp3.1\BattleshipManagerMultiLanguage.csproj.CopyComplete
